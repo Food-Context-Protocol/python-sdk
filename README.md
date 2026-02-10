@@ -8,7 +8,7 @@ Official Python SDK for the [Food Context Protocol](https://github.com/Food-Cont
 ## Installation
 
 ```bash
-pip install fcp
+uv add fcp
 ```
 
 ## Quick Start
